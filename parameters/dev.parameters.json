@@ -6,19 +6,19 @@
             "value": "nonprod"
         },
         "postgreSQLServerName": {
-            "value": "zaiddakhqan-dbsrv-dev"
+            "value": "zdakhqan-dbsrv-dev"
         },
         "postgreSQLDatabaseName": {
-            "value": "zaiddakhqan-db-dev"
+            "value": "zdakhqan-db-dev"
         },
         "appServicePlanName": {
-            "value": "zaiddakhqan-asp-dev"
+            "value": "zdakhqan-asp-dev"
         },
         "appServiceAPIAppName": {
-            "value": "zaiddakhqan-be-dev"
+            "value": "zdakhqan-be-dev"
         },
         "appServiceAppName": {
-            "value": "zaiddakhqan-fe-dev"
+            "value": "zdakhqan-fe-dev"
         },
         "location": {
             "value": "South Africa North"
