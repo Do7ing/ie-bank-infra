@@ -3,22 +3,22 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "environmentType": {
-            "value": "nonprod"
+            "value": "prod"
         },
         "postgreSQLServerName": {
-            "value": "zdakhqan-dbsrv-dev"
+            "value": "zdakhqan-dbsrv-uat"
         },
         "postgreSQLDatabaseName": {
-            "value": "zdakhqan-db-dev"
+            "value": "zdakhqan-db-uat"
         },
         "appServicePlanName": {
-            "value": "zdakhqan-asp-dev"
+            "value": "zdakhqan-asp-uat"
         },
         "appServiceAPIAppName": {
-            "value": "zdakhqan-be-dev"
+            "value": "zdakhqan-be-uat"
         },
         "appServiceAppName": {
-            "value": "zdakhqan-fe-dev"
+            "value": "zdakhqan-fe-uat"
         },
         "location": {
             "value": "Sweden Central"
