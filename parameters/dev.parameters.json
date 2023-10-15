@@ -20,6 +20,12 @@
         "appServiceAppName": {
             "value": "zdakhqan-fe-dev"
         },
+        "azureMonitorName": {
+            "value": "zdakhqan-am-dev"
+        },
+        "appInsightsName": {
+            "value": "zdakhqan-ai-dev"
+        },
         "location": {
             "value": "Sweden Central"
         }
