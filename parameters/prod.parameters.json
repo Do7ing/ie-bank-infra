@@ -1,0 +1,33 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "environmentType": {
+            "value": "prod"
+        },
+        "postgreSQLServerName": {
+            "value": "zdakhqan-dbsrv-prod"
+        },
+        "postgreSQLDatabaseName": {
+            "value": "zdakhqan-db-prod"
+        },
+        "appServicePlanName": {
+            "value": "zdakhqan-asp-prod"
+        },
+        "appServiceAPIAppName": {
+            "value": "zdakhqan-be-prod"
+        },
+        "appServiceAppName": {
+            "value": "zdakhqan-fe-prod"
+        },
+        "azureMonitorName": {
+            "value": "zdakhqan-am-prod"
+        },
+        "appInsightsName": {
+            "value": "zdakhqan-ai-prod"
+        },
+        "location": {
+            "value": "Sweden Central"
+        }
+    }
+}
